@@ -1,0 +1,51 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+
+# Virtual Environment
+myvenv/
+venv/
+.env/
+.venv/
+# Credentials and Secrets
+
+*.json
+.env
+cred.json
+
+
+# Google Cloud & Vertex AI
+.gcloudignore
+app.yaml
+
+
+# System / Editor Files
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+
+# Data / Output Files
+
+data_in_excel/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+
+# Temporary or Local Files
+
+*.tmp
+*.bak
+*.old
+*.cache

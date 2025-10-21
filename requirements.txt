@@ -1,0 +1,37 @@
+# Streamlit
+streamlit
+
+# Google Cloud Libraries
+google-cloud-storage
+google-cloud-bigquery
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+# Vertex AI
+google-cloud-aiplatform
+
+# Environment variables
+python-dotenv
+
+# Data processing
+pandas
+numpy
+
+# LangChain
+langchain
+langchain-community
+langchain-google-vertexai
+
+
+# Vector store
+faiss-cpu
+
+# Text processing
+tiktoken
+
+# Additional utilities
+tabulate
+requests
+db-dtypes
+altair
